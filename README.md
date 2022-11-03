@@ -5,6 +5,6 @@
    -Pros: Cheap
    -Cons: Someone needs to pin our data
 
-3. Dynamic SVG
+3. Dynamic SVG ✅
    -Pros: The data is on chain!
    -Cons: MUCH more expensive
